@@ -1,0 +1,15 @@
+The oil and gas consist of hydrocarbons, molecules composed of carbon and hydrogen. These hydrocarbons cannot exist for very long at the surface of Earth because they are attacked by oxygen and devoured by bacteria that live in surroundings where air is present (aerobic bacteria). Thus, they are quite rapidly transformed into carbon dioxide (CO2) and water. Incidentally, hydrocarbons do not exist in deep layers of the Earth because, beyond a certain depth (around 10 km), they would be destroyed, since the temperature is too high (the further you plunge underground, the hotter it becomes). 
+Petroleum hydrocarbon structures
+      Petroleum consists of three main hydrocarbon groups:
+1. Paraffins
+These consist of straight or branched carbon rings saturated with hydrogen atoms, the simplest of which is methane (CH4) the main ingredient of natural gas. Others in this group include ethane (C2H6), and propane (C3H8).
+ 
+Chemically paraffins are very stable compounds.
+2. Naphthenes
+Naphthenes consist of carbon rings, sometimes with side chains, saturated with hydrogen atoms. Naphthenes are chemically stable, they occur naturally in crude oil and have properties similar to paraffins.
+ 
+3. Aromatics
+Aromatic hydrocarbons are compounds that contain a ring of six carbon atoms with alternating double and single bonds and six attached hydrogen atoms. This type of structure is known as a benzene ring. They occur naturally in crude oil, and can also be created by the refining process.
+ 
+The more carbon atoms a hydrocarbon molecule has, the "heavier" it is (the higher is its molecular weight) and the higher is its boiling point.
+      Small quantities of a crude oil may be composed of compounds containing oxygen, nitrogen, sulphur and metals. Sulphur content ranges from traces to more than 5 per cent. If a crude oil contains appreciable quantities of sulphur it is called a sour crude (at least 2.5% sulfur); if it contains little or no sulphur it is called a sweet crude (sulfur content less than 0.5%).
